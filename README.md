@@ -1,6 +1,6 @@
 # Blender Post Import
 
-A post-import script for Blender files in Godot 4 that dynamically links Blender scenes together (to remove duplicate data) and injects Godot scenes as child nodes (for interactivity).
+A post-import script for Blender files in Godot 4. Dynamically links Blender scenes together (to remove duplicate data) and injects Godot scenes as child nodes (for interactivity).
 
 ### How it works
 
